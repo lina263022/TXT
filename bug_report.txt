@@ -1,1 +1,8 @@
+Description: Товар Barbie Dreamtopia  есть в списке выпадающих продуктов при выборе подкатегории SWEETS категории Kinders в главном меню товаров  сайта.
 
+Steps to reproduse:
+1.	Открыть сайт http://sp1.iteatester.com;
+2.	 В главном меню сайта выбираем подкатегорию Sweets категории Kinders .
+
+Actual result: в списке выпадающих продуктов появляется Barbie Dreamtopia;  
+Expected result: в списке выпадающих продуктов только сладкие продукты
